@@ -6,7 +6,7 @@
 
   This my working Fullstack Developer Portfolio Website.  The website was built using React. It includes About Me, Portfolio, Contact, and Resume sections.  To stylize and mobilize the site, I used Bootstrap, which easily makes components mobile responsive.  
 
-![Portfolio](./React_Portfolio/public/images/portfolioImg.png)
+![Portfolio](./public/images/portfolioImg.png)
 
  Netify Website: https://pamela-agrast.netlify.app/#about
 
