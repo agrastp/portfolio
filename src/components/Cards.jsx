@@ -55,13 +55,13 @@ export default function PortfolioPage() {
                   <h5 className="card-title">{`${card.title}`}</h5>
                   <p className="card-text">{`${card.description}`}</p>
                   <div className="mt-auto">
-                    <a href={`${card.repo}`} className="btn btn-dark">
+                    <a href={`${card.repo}`} target="_blank" className="btn btn-dark">
                       Go to Repo
                     </a>
                   </div>
                   {card.deploy && (
                     <div className="mt-2">
-                      <a href={`${card.deploy}`} className="btn btn-secondary">
+                      <a href={`${card.deploy}`} target="_blank" className="btn btn-secondary">
                         Deploy
                       </a>
                     </div>
